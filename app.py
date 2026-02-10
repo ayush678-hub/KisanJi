@@ -11,7 +11,7 @@ def load_db():
             return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         return {}
-
+        
 @app.route('/', methods=['GET', 'POST'])
 def index():
     results = None
