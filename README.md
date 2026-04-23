@@ -119,7 +119,7 @@ Beyond detection, the app serves as an educational library. We have categorized 
 ## 👨‍💻 Individual Contributions Detail
 
 <details>
-<summary><b>🔵 Rajat Pundir - Full Stack Developer & Database Architect</b></summary>
+<summary><b>🔵 Ayush Agarwal- Full Stack Developer & Database Architect</b></summary>
 
 ### Core Features Developed:
 - **GNN-Based Network Alert System**: Graph Neural Network for farmer alert propagation
@@ -144,7 +144,7 @@ Beyond detection, the app serves as an educational library. We have categorized 
 </details>
 
 <details>
-<summary><b>🟢 Saurav Beri - Backend Developer</b></summary>
+<summary><b>🟢 Khushi - Backend Developer</b></summary>
 
 ### Core Features Developed:
 - **Backend Architecture**: FastAPI & Flask server setup
@@ -176,7 +176,7 @@ Beyond detection, the app serves as an educational library. We have categorized 
 </details>
 
 <details>
-<summary><b>🔴 Devesh Singh - Full Stack Developer</b></summary>
+<summary><b>🔴 Piyush Mittal - Full Stack Developer</b></summary>
 
 ### Core Feature: Ganga River Flood Alert System
 - **Live Monitoring**: 8 cities (Varanasi, Patna, Haridwar, Prayagraj, Kanpur, Farakka, Rishikesh, Kolkata)
