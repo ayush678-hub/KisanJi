@@ -97,13 +97,13 @@ Beyond detection, the app serves as an educational library. We have categorized 
 
 
 ## Planned Improvements (Round 2)
-### 1. Ganga Alerts (Flood & Water Safety) - *By Devesh Singh*
+### 1. Ganga Alerts (Flood & Water Safety) - *By Ayush Agarwal*
 •	Objective: To directly address climate uncertainty.
 •	Status: ✅ **Implemented** - Real-time flood monitoring for 8 cities along Ganga River
 •	Features: Traffic light indicators, population impact data, region filtering
 📄 **[Flood Alert Documentation →](docs/FLOOD_ALERT_SYSTEM.md)**
 
-#### 2. Autonomous WhatsApp Agent (Business API) - *By Rajat Pundir*
+#### 2. Autonomous WhatsApp Agent (Business API) - *By Khushi Nautiyal*
 •	Objective: To remove the barrier of app installation.
 •	Status: 🔄 **50% Complete** - n8n workflows + WhatsApp webhook integration
 •	Completed: Text queries, voice messages, webhook setup
