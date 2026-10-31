@@ -14,7 +14,7 @@ University: Graphic Era Hill University, Dehradun
 
 | Team Member | Role | Key Contributions | Individual Repo |
 |-------------|------|-------------------|-----------------|
-| **AYUSH** [@ayush678-hub](https://github.com/ayush678-hub) | Full Stack Developer & DB Architect | GNN Alert System, Weather Alerts, Database Schema, n8n Automation, WhatsApp Integration (50%) | [🔗 kisanji](https://github.com/ayush678-hub) |
+| **AYUSH** [@ayush678-hub](https://github.com/ayush678-hub) | Full Stack Developer & AI/ML Engineer | ResNet50-Based Crop Disease Detection, AI-Powered Crop Recommendation, Multilingual RAG Chatbot (8+ Languages), FastAPI Backend, Gemini API & Voice Assistant Integration | [🔗 KisanJi](https://github.com/ayush678-hub)
 | **KHUSHI** [@2khu3shi](https://github.com/2khu3shi) | Backend Developer | FastAPI Backend, Fertilizer Calculator, Pesticide Calculator, Translation Service | [🔗 kisanji-project](https://github.com/2khu3shi) |
 | **Ankit Negi** [@anku251](https://github.com/anku251) | AI/ML Engineer | Pest Detection Models, Crop Recommender, Voice Assistant, TTS, Gemini Integration | [🔗 kisan_jii](https://github.com/anku251/kisan_jii) |
 | **PIYUSH** [@Piyush2219](https://github.com/Piyush2219) | Full Stack Developer | Ganga River Flood Alert System, Real-time Monitoring Dashboard | [🔗 Pridict-River-Disaster](https://github.com/Piyush2219) |
